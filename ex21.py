@@ -35,7 +35,7 @@ print "normalement le resultat est",what, "appart si vous avez modifier ;)"
 
 #pour finir par le add important pour la suite, alors on prend le resultat de la
 
-#division donc ici 21 sachant que sa à deja divisé de base  et sa redivise le résultat obtenue
+#division donc ici 21 sachant que sa a deja divise de base  et sa redivise le resultat obtenue
 
 #et on va le multiplier le 21 et le resultat de la multiplication
 
